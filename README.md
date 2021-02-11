@@ -2,6 +2,7 @@
 The repository contains work from artificial intelligence class.
 
 The repository contains code that has been developed during artificial intelligence class. it consists of 7 different topics:
+
 exercise 1 - newton method
 
 exercise 2 - evolutionary algorithm without crossover, but with turnament selection and elitist selection
