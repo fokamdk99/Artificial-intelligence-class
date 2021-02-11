@@ -10,6 +10,7 @@ exercise 2 - evolutionary algorithm without crossover, but with turnament select
 exercise 3 - minimax algorithm and testing based on a "tic tac toe" game
 
 exercise 4 - of a linear support vector machine
+
 exercise 5 - naive Bayes classifier
 
 exercise 7 - Q-learning algorithm
